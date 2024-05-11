@@ -23,9 +23,9 @@ int main()
 	return 0;
 }
 
-
-
-
+/* hello there */
+/* hello there *//* hello there *//* hello there */
+/* hello there */
 /* D:\LazyPractice\first.cpp */
 /**/
 /**/
